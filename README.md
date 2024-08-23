@@ -1,5 +1,5 @@
 # EXPRESS MIDDLEWARE
-👨‍🏫CONTROLHE DE ACESSO A ROTAS COM EXPRESS MIDDLEWARE.
+👨‍🏫CONTROLE DE ACESSO A ROTAS COM EXPRESS MIDDLEWARE.
 
 <img src="./IMAGENS/FOTO_1.png" align="center" width="500"> <br>
 <img src="./IMAGENS/FOTO_2.png" align="center" width="500"> <br>
