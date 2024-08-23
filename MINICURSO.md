@@ -135,7 +135,7 @@ O Express Middleware é uma ferramenta poderosa para adicionar lógica de contro
 
 ## EXEMPLO MAIS AVANÇADO:
 ### MIDDLEWARE EM APLICAÇÕES WEB: LARAVEL VS. EXPRESS:
-Em frameworks como Laravel, o middleware é uma ferramenta muito poderosa para manipular requisições HTTP. Um exemplo típico no Laravel que você trouxe seria algo assim:
+Em frameworks como [Laravel](https://github.com/VILHALVA/CURSO-DE-LARAVEL), o middleware é uma ferramenta muito poderosa para manipular requisições HTTP. Um exemplo típico no Laravel que você trouxe seria algo assim:
 
 ```php
 Route::get('/admin/dashboard', [DashboardController::class, 'index'])
